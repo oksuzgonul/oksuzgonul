@@ -1,6 +1,6 @@
 -  Hi, I’m @oksuzgonul
 -  I’m interested in Game Development and Graphics Programming
--  I’m currently learning: UE4, DX11, Vulkan
+-  I’m currently learning: OpenGL, DX11, Vulkan, UE4
 -  I’m looking to collaborate: on anything game related
 -  How to reach me: [Twitter](https://twitter.com/oksuzgonulh)
 -  More about my work: [itch.io](https://oksuzgonul.itch.io/)
